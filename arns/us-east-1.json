@@ -43,12 +43,14 @@
     },
     {
         "package_version": "4.8.0",
+        "time_to_live": 1568731620,
         "package": "beautifulsoup4",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-beautifulsoup4:1",
         "deployed_region": "us-east-1"
     },
     {
         "package_version": "1.22.0",
+        "time_to_live": 1568731628,
         "package": "grpcio",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-grpcio:1",
         "deployed_region": "us-east-1"
@@ -67,6 +69,7 @@
     },
     {
         "package_version": "3.8.0",
+        "time_to_live": 1568731628,
         "package": "pymongo",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pymongo:1",
         "deployed_region": "us-east-1"
@@ -133,6 +136,7 @@
     },
     {
         "package_version": "1.3.6",
+        "time_to_live": 1568731635,
         "package": "SQLAlchemy",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-SQLAlchemy:1",
         "deployed_region": "us-east-1"
@@ -151,6 +155,7 @@
     },
     {
         "package_version": "0.2.7",
+        "time_to_live": 1568731633,
         "package": "pytesseract",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pytesseract:1",
         "deployed_region": "us-east-1"
@@ -175,6 +180,7 @@
     },
     {
         "package_version": "1.3.0",
+        "time_to_live": 1568731707,
         "package": "scipy",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-scipy:1",
         "deployed_region": "us-east-1"
@@ -253,6 +259,7 @@
     },
     {
         "package_version": "0.8.10",
+        "time_to_live": 1568731638,
         "package": "python-docx",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-python-docx:1",
         "deployed_region": "us-east-1"
@@ -265,6 +272,7 @@
     },
     {
         "package_version": "1.14.19",
+        "time_to_live": 1568731634,
         "package": "PyMUPDF",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-PyMUPDF:1",
         "deployed_region": "us-east-1"
@@ -295,6 +303,7 @@
     },
     {
         "package_version": "0.14.4",
+        "time_to_live": 1568731620,
         "package": "arrow",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-arrow:3",
         "deployed_region": "us-east-1"
@@ -337,6 +346,7 @@
     },
     {
         "package_version": "0.4.0",
+        "time_to_live": 1568731629,
         "package": "google-auth-oauthlib",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-google-auth-oauthlib:3",
         "deployed_region": "us-east-1"
@@ -361,6 +371,7 @@
     },
     {
         "package_version": "2.1.7",
+        "time_to_live": 1568731629,
         "package": "graphene",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-graphene:1",
         "deployed_region": "us-east-1"
@@ -402,12 +413,6 @@
         "deployed_region": "us-east-1"
     },
     {
-        "package_version": "1.9.200",
-        "package": "boto3",
-        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-boto3:1",
-        "deployed_region": "us-east-1"
-    },
-    {
         "package_version": "0.10.3",
         "package": "aiobotocore",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:2",
@@ -415,8 +420,107 @@
     },
     {
         "package_version": "2.8.3",
+        "time_to_live": 1568731696,
         "package": "ansible",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-ansible:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "2.4.2",
+        "time_to_live": 1568731643,
+        "package": "aws-xray-sdk",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aws-xray-sdk:1",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "1.9.208",
+        "time_to_live": 1568731639,
+        "package": "boto3",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-boto3:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "4.8.0",
+        "package": "beautifulsoup4",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-beautifulsoup4:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "0.14.5",
+        "package": "arrow",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-arrow:4",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "3.9.0",
+        "package": "pymongo",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pymongo:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "1.23.0",
+        "package": "grpcio",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-grpcio:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "0.4.0",
+        "package": "google-auth-oauthlib",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-google-auth-oauthlib:4",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "2.1.8",
+        "package": "graphene",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-graphene:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "0.2.9",
+        "package": "pytesseract",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pytesseract:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "1.14.20",
+        "package": "PyMUPDF",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-PyMUPDF:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "1.3.7",
+        "package": "SQLAlchemy",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-SQLAlchemy:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "0.8.10",
+        "package": "python-docx",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-python-docx:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "1.9.210",
+        "package": "boto3",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-boto3:3",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "2.4.2",
+        "package": "aws-xray-sdk",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aws-xray-sdk:2",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "2.8.4",
+        "package": "ansible",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-ansible:3",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "1.3.1",
+        "package": "scipy",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-scipy:2",
         "deployed_region": "us-east-1"
     }
 ]
