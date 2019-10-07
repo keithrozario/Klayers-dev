@@ -678,6 +678,7 @@
     },
     {
         "package_version": "4.8.0",
+        "time_to_live": 1573002025,
         "package": "beautifulsoup4",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-beautifulsoup4:3",
         "deployed_region": "us-east-1"
@@ -848,6 +849,12 @@
         "package_version": "2.2.1",
         "package": "spacy",
         "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-spacy:1",
+        "deployed_region": "us-east-1"
+    },
+    {
+        "package_version": "4.8.1",
+        "package": "beautifulsoup4",
+        "layer_version_arn": "arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-beautifulsoup4:4",
         "deployed_region": "us-east-1"
     }
 ]
