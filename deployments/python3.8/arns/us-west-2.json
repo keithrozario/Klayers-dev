@@ -7,6 +7,7 @@
     },
     {
         "package_version": "4.8.1",
+        "time_to_live": 1580259626,
         "package": "beautifulsoup4",
         "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-beautifulsoup4:1",
         "deployed_region": "us-west-2"
@@ -135,6 +136,7 @@
     },
     {
         "package_version": "2.4.5",
+        "time_to_live": 1580259629,
         "package": "pyparsing",
         "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-pyparsing:1",
         "deployed_region": "us-west-2"
@@ -310,6 +312,7 @@
     },
     {
         "package_version": "2.0",
+        "time_to_live": 1580259653,
         "package": "pulp",
         "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-pulp:1",
         "deployed_region": "us-west-2"
@@ -471,6 +474,7 @@
     },
     {
         "package_version": "1.10.44",
+        "time_to_live": 1580259636,
         "package": "boto3",
         "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-boto3:3",
         "deployed_region": "us-west-2"
@@ -483,12 +487,14 @@
     },
     {
         "package_version": "2.4.3",
+        "time_to_live": 1580259639,
         "package": "aws-xray-sdk",
         "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aws-xray-sdk:3",
         "deployed_region": "us-west-2"
     },
     {
         "package_version": "1.0.0rc2",
+        "time_to_live": 1580259643,
         "package": "pyqldb",
         "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-pyqldb:3",
         "deployed_region": "us-west-2"
@@ -513,8 +519,51 @@
     },
     {
         "package_version": "2.2.3",
+        "time_to_live": 1580259679,
         "package": "spacy",
         "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-spacy:3",
+        "deployed_region": "us-west-2"
+    },
+    {
+        "package_version": "4.8.2",
+        "package": "beautifulsoup4",
+        "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-beautifulsoup4:2",
+        "deployed_region": "us-west-2"
+    },
+    {
+        "package_version": "2.4.6",
+        "package": "pyparsing",
+        "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-pyparsing:2",
+        "deployed_region": "us-west-2"
+    },
+    {
+        "package_version": "1.10.45",
+        "package": "boto3",
+        "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-boto3:4",
+        "deployed_region": "us-west-2"
+    },
+    {
+        "package_version": "2.4.3",
+        "package": "aws-xray-sdk",
+        "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aws-xray-sdk:4",
+        "deployed_region": "us-west-2"
+    },
+    {
+        "package_version": "1.0.0rc2",
+        "package": "pyqldb",
+        "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-pyqldb:4",
+        "deployed_region": "us-west-2"
+    },
+    {
+        "package_version": "2.0",
+        "package": "pulp",
+        "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-pulp:2",
+        "deployed_region": "us-west-2"
+    },
+    {
+        "package_version": "2.2.3",
+        "package": "spacy",
+        "layer_version_arn": "arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-spacy:4",
         "deployed_region": "us-west-2"
     }
 ]
