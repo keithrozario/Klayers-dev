@@ -70,7 +70,6 @@ pyOpenSSL,19.1.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-
 grpcio,1.26.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-grpcio:8,
 boto3,1.11.5,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-boto3:26,
 aws-xray-sdk,2.4.3,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aws-xray-sdk:25,
-aiobotocore,0.11.1,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:20,26-02-2020
 pyqldb,1.0.0rc2,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pyqldb:13,
 pandas,0.25.3,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pandas:14,
 spacy,2.2.3,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-spacy:16,
@@ -78,4 +77,5 @@ ansible,2.9.3,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev
 aiobotocore,0.11.1,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:21,18-03-2020
 aiodns,2.0.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiodns:7,
 aiobotocore,0.11.1,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:22,25-03-2020
-aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:23,
+aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:23,01-04-2020
+aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:24,
