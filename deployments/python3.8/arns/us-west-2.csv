@@ -1,5 +1,6 @@
 package,package_version,layer_version_arn,time_to_live
-aiobotocore,0.12.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:10,
+aiobotocore,0.12.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:10,08-04-2020
+aiobotocore,0.12.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:11,
 aiobotocore,0.11.1,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:7,18-03-2020
 aiobotocore,0.11.1,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:8,25-03-2020
 aiobotocore,0.12.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:9,01-04-2020
@@ -78,7 +79,6 @@ PyYAML,5.3,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-PyY
 records,0.5.3,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-records:2,09-03-2020
 records,0.5.3,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-records:3,
 reportlab,3.5.34,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-reportlab:2,
-requests,2.22.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-requests:1,08-03-2020
 requests,2.22.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-requests:2,
 scipy,1.3.3,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-scipy:1,
 simplejson,3.17.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-simplejson:1,
