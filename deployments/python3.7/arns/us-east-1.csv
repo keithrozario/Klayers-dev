@@ -46,7 +46,6 @@ pulp,2.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pulp
 Pillow,7.0.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-Pillow:4,
 pytesseract,0.3.1,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pytesseract:7,
 boltons,20.0.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-boltons:4,
-aiodns,2.0.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiodns:6,11-03-2020
 pymongo,3.10.1,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-pymongo:4,
 aiohttp,3.6.2,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiohttp:13,
 PyYAML,5.3,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-PyYAML:4,
@@ -80,4 +79,5 @@ aiobotocore,0.11.1,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python3
 aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:23,01-04-2020
 aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:24,08-04-2020
 aiodns,2.0.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiodns:8,
-aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:25,
+aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:25,15-04-2020
+aiobotocore,0.12.0,arn:aws:lambda:us-east-1:113088814899:layer:pylayers--python37-dev-aiobotocore:26,
