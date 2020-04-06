@@ -64,8 +64,8 @@ pandas,0.25.3,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev
 spacy,2.2.3,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-spacy:16,
 ansible,2.9.3,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-ansible:14,
 aiodns,2.0.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiodns:7,08-04-2020
-aiobotocore,0.12.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:22,01-04-2020
 aiobotocore,0.12.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:23,08-04-2020
 aiodns,2.0.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiodns:8,
 aiobotocore,0.12.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:24,15-04-2020
-aiobotocore,0.12.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:25,
+aiobotocore,0.12.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:25,06-05-2020
+aiobotocore,1.0.2,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:26,
