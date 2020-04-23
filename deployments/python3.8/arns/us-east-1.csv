@@ -2,7 +2,8 @@ package,package_version,layer_version_arn,time_to_live
 aiobotocore,0.12.0,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:12,06-05-2020
 aiobotocore,1.0.2,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:13,13-05-2020
 aiobotocore,1.0.3,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:14,20-05-2020
-aiobotocore,1.0.4,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:15,
+aiobotocore,1.0.4,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:15,23-05-2020
+aiobotocore,1.0.4,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:16,
 aiohttp,3.6.2,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:7,
 ansible,2.9.4,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-ansible:4,
 arrow,0.15.5,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-arrow:3,
