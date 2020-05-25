@@ -1,9 +1,8 @@
 package,package_version,layer_version_arn,time_to_live
-aiobotocore,1.0.3,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:14,20-05-2020
-aiobotocore,1.0.4,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:15,23-05-2020
 aiobotocore,1.0.4,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:16,10-06-2020
 aiobotocore,1.0.4,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:17,17-06-2020
-aiobotocore,1.0.4,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:18,
+aiobotocore,1.0.4,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:18,24-06-2020
+aiobotocore,1.0.4,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:19,
 aiodns,2.0.0,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiodns:1,
 aiohttp,3.6.2,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:6,17-06-2020
 aiohttp,3.6.2,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:7,
