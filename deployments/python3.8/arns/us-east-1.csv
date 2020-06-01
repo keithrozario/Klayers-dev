@@ -28,8 +28,8 @@ idna,2.8,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-d
 itsdangerous,1.1.0,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-itsdangerous:1
 jellyfish,0.7.2,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-jellyfish:1
 kafka-python,1.4.7,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-kafka-python:1
-lambda-cache,0.8.1,deprecated,2020-07-28T15:59:29,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-lambda-cache:1
-lambda-cache,0.8.1,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-lambda-cache:2
+lambda-cache,0.8.1,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-lambda-cache:1
+lambda-cache,0.8.1,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-lambda-cache:3
 ldap3,2.6.1,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-ldap3:1
 loguru,0.4.1,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-loguru:2
 nltk,3.4.5,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-nltk:2
