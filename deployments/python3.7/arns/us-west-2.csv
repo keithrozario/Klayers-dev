@@ -67,4 +67,5 @@ aiodns,2.0.0,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-
 aiobotocore,1.0.4,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:29,10-06-2020
 aiobotocore,1.0.4,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:30,17-06-2020
 aiobotocore,1.0.4,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:31,24-06-2020
-aiobotocore,1.0.4,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:32,
+aiobotocore,1.0.4,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:32,08-07-2020
+aiobotocore,1.0.7,arn:aws:lambda:us-west-2:113088814899:layer:pylayers--python37-dev-aiobotocore:33,
