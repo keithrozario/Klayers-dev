@@ -5,13 +5,15 @@ aiobotocore,1.0.4,deprecated,,arn:aws:lambda:us-west-2:908645878701:layer:pylaye
 aiobotocore,1.0.7,deprecated,2020-08-27T04:40:35,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:20
 aiobotocore,1.0.7,deprecated,2020-09-25T02:00:59,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:21
 aiobotocore,1.0.7,deprecated,2020-10-02T02:00:52,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:22
-aiobotocore,1.0.7,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:23
+aiobotocore,1.0.7,deprecated,2020-10-23T02:00:59,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:23
+aiobotocore,1.1.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:24
 aiodns,2.0.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiodns:1
 aiohttp,3.6.2,deprecated,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:6
 aiohttp,3.6.2,deprecated,2020-08-27T04:40:21,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:7
 aiohttp,3.6.2,deprecated,2020-09-25T02:00:44,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:8
 aiohttp,3.6.2,deprecated,2020-10-02T02:00:46,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:9
-aiohttp,3.6.2,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:10
+aiohttp,3.6.2,deprecated,2020-10-23T02:00:47,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:10
+aiohttp,3.6.2,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:11
 ansible,2.9.4,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-ansible:4
 arrow,0.15.5,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-arrow:3
 aws-lambda-powertools,0.3.1,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aws-lambda-powertools:3
