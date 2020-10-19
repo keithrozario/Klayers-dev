@@ -6,12 +6,14 @@ aiobotocore,1.0.7,deprecated,2020-10-23T02:00:55,arn:aws:lambda:us-east-1:908645
 aiobotocore,1.1.0,deprecated,2020-11-06T02:00:55,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:24
 aiobotocore,1.1.1,deprecated,2020-11-27T02:00:56,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:25
 aiobotocore,1.1.1,deprecated,2020-12-11T02:00:56,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:26
-aiobotocore,1.1.2,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:27
+aiobotocore,1.1.2,deprecated,2020-12-18T02:01:04,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:27
+aiobotocore,1.1.2,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiobotocore:28
 aiohttp,3.6.2,deprecated,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:7
 aiohttp,3.6.2,deprecated,2020-10-23T02:00:45,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:11
 aiohttp,3.6.2,deprecated,2020-11-06T02:00:48,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:12
 aiohttp,3.6.2,deprecated,2020-11-27T02:00:46,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:13
-aiohttp,3.6.2,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:14
+aiohttp,3.6.2,deprecated,2020-12-18T02:00:47,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:14
+aiohttp,3.6.3,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aiohttp:15
 ansible,2.9.4,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-ansible:4
 arrow,0.15.5,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-arrow:3
 aws-lambda-powertools,0.3.1,latest,,arn:aws:lambda:us-east-1:908645878701:layer:pylayers-python38-dev-aws-lambda-powertools:3
