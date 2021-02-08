@@ -2,7 +2,6 @@ Package,Package Version,Status,Expiry Date,Arn
 aiobotocore,1.0.4,deprecated,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:16
 aiobotocore,1.0.4,deprecated,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:17
 aiobotocore,1.0.4,deprecated,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:18
-aiobotocore,1.1.2,deprecated,2021-02-05T02:00:52,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:33
 aiobotocore,1.1.2,deprecated,2021-03-05T02:00:52,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:34
 aiobotocore,1.1.2,deprecated,2021-03-12T02:01:01,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:35
 aiobotocore,1.1.2,deprecated,2021-03-19T02:00:51,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:36
@@ -10,7 +9,6 @@ aiobotocore,1.2.0,deprecated,2021-04-02T02:00:51,arn:aws:lambda:us-west-2:908645
 aiobotocore,1.2.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:38
 aiodns,2.0.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiodns:1
 aiohttp,3.6.2,deprecated,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:6
-aiohttp,3.7.3,deprecated,2021-02-05T02:00:44,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:19
 aiohttp,3.7.3,deprecated,2021-03-05T02:00:49,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:20
 aiohttp,3.7.3,deprecated,2021-03-12T02:00:44,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:21
 aiohttp,3.7.3,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:22
