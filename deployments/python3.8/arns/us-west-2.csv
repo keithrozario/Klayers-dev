@@ -8,7 +8,8 @@ aiobotocore,1.4.1,deprecated,2021-12-10T02:00:53,arn:aws:lambda:us-west-2:908645
 aiobotocore,1.4.2,deprecated,2021-12-17T02:00:55,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:58
 aiobotocore,1.4.2,deprecated,2021-12-31T02:00:56,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:59
 aiobotocore,1.4.2,deprecated,2022-01-07T02:00:56,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:60
-aiobotocore,2.0.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:61
+aiobotocore,2.0.0,deprecated,2022-01-14T02:01:04,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:61
+aiobotocore,2.0.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiobotocore:62
 aiodns,2.0.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiodns:1
 aiohttp,3.6.2,deprecated,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:6
 aiohttp,3.7.4.post0,deprecated,2021-12-03T02:00:48,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:29
@@ -16,7 +17,8 @@ aiohttp,3.7.4.post0,deprecated,2021-12-10T02:00:51,arn:aws:lambda:us-west-2:9086
 aiohttp,3.7.4.post0,deprecated,2021-12-17T02:00:44,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:31
 aiohttp,3.7.4.post0,deprecated,2021-12-31T02:00:51,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:32
 aiohttp,3.8.0,deprecated,2022-01-07T02:00:47,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:33
-aiohttp,3.8.0,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:34
+aiohttp,3.8.0,deprecated,2022-01-14T02:00:52,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:34
+aiohttp,3.8.1,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aiohttp:35
 ansible,2.9.4,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-ansible:4
 arrow,0.15.5,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-arrow:3
 aws-lambda-powertools,0.3.1,latest,,arn:aws:lambda:us-west-2:908645878701:layer:pylayers-python38-dev-aws-lambda-powertools:3
